@@ -4,8 +4,8 @@
  
  Комплект библиотек для разработки РЭА в соответствии с ГОСТ. Может потребоваться корректировка под стандарт Вашего предприятия.
 
- Руководство: 
- Канал с обновлениями:
+ Руководство: скоро.
+ Канал с обновлениями: скоро.
 
 # Altium Designer libraries
 
@@ -13,6 +13,5 @@
  
  Libraries used in developing radioelectronics according to GOST. Some of them need to be modified according to Yours' design standards.
 
- Manual:
- Update channel(RU):
- 
+ Manual: soon.
+ Update channel(RU): soon.
